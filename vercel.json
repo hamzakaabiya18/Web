@@ -3,7 +3,7 @@
     {
       "source": "/",
       "destination": "/indexxx.html",
-      "permanent": false
+      "permanent": true
     }
   ]
 }
